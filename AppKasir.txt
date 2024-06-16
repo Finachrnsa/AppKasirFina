@@ -1,0 +1,4 @@
+Barang = Teh kotak
+harga = 5000
+jumlah = 3
+total = 25000
